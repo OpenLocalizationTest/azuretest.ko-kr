@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [includes\app-service-api-create-dropbox-app.md](https://github.com/OpenLocalizationTest/azuretest/blob/e383a23574712d429a64ba67851afc061d8e082a/includes/app-service-api-create-dropbox-app.md) | HandedOffSuccess | [Details](#8c32edde8cdcdd5e6f581bc5549b5181f908090716651)
+ [includes\app-service-hybrid-connections-manager-install.md](https://github.com/OpenLocalizationTest/azuretest/blob/d5fac9e14feff772e13fc018255f8186ed2876f9/includes/app-service-hybrid-connections-manager-install.md) | HandedOffSuccess | [Details](#194e4bed98b348b5b4d6e1843477d856a67f1b8216665)
 
 ## Item Details
-##### <a name='8c32edde8cdcdd5e6f581bc5549b5181f908090716651'></a> Source: [includes\app-service-api-create-dropbox-app.md](https://github.com/OpenLocalizationTest/azuretest/blob/e383a23574712d429a64ba67851afc061d8e082a/includes/app-service-api-create-dropbox-app.md)
+##### <a name='194e4bed98b348b5b4d6e1843477d856a67f1b8216665'></a> Source: [includes\app-service-hybrid-connections-manager-install.md](https://github.com/OpenLocalizationTest/azuretest/blob/d5fac9e14feff772e13fc018255f8186ed2876f9/includes/app-service-hybrid-connections-manager-install.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [app-service-api-create-dropbox-app.ba2a3f351ee8b109ea57ff87597f4f3da487651b.ko-kr.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/395fe3753e9179fb4f8b4e7af6106775df49194d/ol-handoff/OpenLocalizationTest/azuretest.ko-kr/master/ht/app-service-api-create-dropbox-app.ba2a3f351ee8b109ea57ff87597f4f3da487651b.ko-kr.xlf)
-* Handoff Datetime: 2016-03-14 02:31:23
+* Handoff File: [app-service-hybrid-connections-manager-install.3c65846e0767bad49cd27ed6205b31e35f97d814.ko-kr.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/e3c00bdaca68ec141a42449dda928bbe9d4131b1/ol-handoff/OpenLocalizationTest/azuretest.ko-kr/master/ht/app-service-hybrid-connections-manager-install.3c65846e0767bad49cd27ed6205b31e35f97d814.ko-kr.xlf)
+* Handoff Datetime: 2016-03-14 05:48:46
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
